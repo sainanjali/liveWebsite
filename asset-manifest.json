@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/liveWebsite/static/css/main.8fe446cb.chunk.css",
+    "main.js": "/liveWebsite/static/js/main.eaee9d60.chunk.js",
+    "main.js.map": "/liveWebsite/static/js/main.eaee9d60.chunk.js.map",
+    "runtime-main.js": "/liveWebsite/static/js/runtime-main.14e8027c.js",
+    "runtime-main.js.map": "/liveWebsite/static/js/runtime-main.14e8027c.js.map",
+    "static/css/2.4be38407.chunk.css": "/liveWebsite/static/css/2.4be38407.chunk.css",
+    "static/js/2.314d0d03.chunk.js": "/liveWebsite/static/js/2.314d0d03.chunk.js",
+    "static/js/2.314d0d03.chunk.js.map": "/liveWebsite/static/js/2.314d0d03.chunk.js.map",
+    "index.html": "/liveWebsite/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/liveWebsite/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.8fe446cb.chunk.css.map": "/liveWebsite/static/css/main.8fe446cb.chunk.css.map",
+    "static/js/2.314d0d03.chunk.js.LICENSE.txt": "/liveWebsite/static/js/2.314d0d03.chunk.js.LICENSE.txt",
+    "static/media/Software.7e897d4e.webp": "/liveWebsite/static/media/Software.7e897d4e.webp",
+    "static/media/android.64a6b213.jpg": "/liveWebsite/static/media/android.64a6b213.jpg",
+    "static/media/app.59e10fa7.jpg": "/liveWebsite/static/media/app.59e10fa7.jpg",
+    "static/media/digital-marketing.3914d26c.webp": "/liveWebsite/static/media/digital-marketing.3914d26c.webp",
+    "static/media/img 2.f806b741.jpg": "/liveWebsite/static/media/img 2.f806b741.jpg",
+    "static/media/img3.05f29748.jpg": "/liveWebsite/static/media/img3.05f29748.jpg",
+    "static/media/laptop.242986fa.jpg": "/liveWebsite/static/media/laptop.242986fa.jpg",
+    "static/media/marketing.d07fb3f3.webp": "/liveWebsite/static/media/marketing.d07fb3f3.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14e8027c.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.314d0d03.chunk.js",
+    "static/css/main.8fe446cb.chunk.css",
+    "static/js/main.eaee9d60.chunk.js"
+  ]
+}
